@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "419623092629",
+    "firebase_url": "https://gncc-app-267fe.firebaseio.com",
+    "project_id": "gncc-app-267fe",
+    "storage_bucket": "gncc-app-267fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419623092629:android:857c6dfef77c3d6012769c",
+        "android_client_info": {
+          "package_name": "com.example.gncc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419623092629-4ip865lmu3nae7jug7656om464n1radm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGIYSdga5XgyRDfNOHOdrpLHl7FRJURlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419623092629-4ip865lmu3nae7jug7656om464n1radm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
